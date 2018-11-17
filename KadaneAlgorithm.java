@@ -1,8 +1,4 @@
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 public class Kadane_Algorithm 
 {
     /*
@@ -31,7 +27,7 @@ public class Kadane_Algorithm
     
     public static void main(String[] args)
     {      
-           int[] arr = new int{ -1, 10, 5, 67, -80, 45};
+           int[] arr = new int[]{ -1, 10, 5, 67, -80, 45};
             // Call maxsum function
             maxSum(arr);
     }
