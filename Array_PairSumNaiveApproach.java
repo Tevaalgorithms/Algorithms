@@ -1,5 +1,5 @@
 
-public class PairSumNaiveApproach 
+public class Array_PairSumNaiveApproach 
 {
     /*
     Time complexity is O(n*n)
