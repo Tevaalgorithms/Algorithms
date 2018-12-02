@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class tripplesumInplaceApproach
+public class Array_tripplesumInplaceApproach
 {
    public static void pairSum(int[] input, int sum)
    {
