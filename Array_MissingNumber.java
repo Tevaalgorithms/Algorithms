@@ -1,5 +1,5 @@
 
-public class MissingNumber 
+public class Array_MissingNumber 
 {
     public static void missing_number(int[] arr)
     {
