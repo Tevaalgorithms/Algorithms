@@ -1,5 +1,5 @@
 
-public class Kadane_Algorithm 
+public class Array_KadaneAlgorithm 
 {
     /*
       Kadane’s Algorithm to find maximum sum.
