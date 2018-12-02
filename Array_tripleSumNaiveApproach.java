@@ -1,4 +1,4 @@
-public class tripleSumNaiveApproach
+public class Array_tripleSumNaiveApproach
 {
     /*
     Time complexity is O(n*n*n)
