@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class PairSumHashTable 
+public class Array_PairSumHashTable 
 {
     /*
     Time Complexity: O(n)
