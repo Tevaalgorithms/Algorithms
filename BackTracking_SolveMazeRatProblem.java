@@ -14,7 +14,7 @@
  
 package solvemazeratproblem;
 import java.util.Stack;
-public class SolveMazeRatProblem 
+public class BackTracking_SolveMazeRatProblem 
 {
     // Here we are considering only 4 * 4 maze field
     static int N = 4;
