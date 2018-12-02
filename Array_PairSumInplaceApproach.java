@@ -1,7 +1,7 @@
 package arraysum;
 import java.util.Arrays;
 
-public class PairSumInplaceApproach 
+public class Array_PairSumInplaceApproach 
 {
     /*
     Time complexity is O(n logn)
