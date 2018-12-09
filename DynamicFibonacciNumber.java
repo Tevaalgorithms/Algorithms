@@ -1,4 +1,4 @@
-public class FibonacciNumber 
+public class DynamicFibonacciNumber 
 {   
     // Recursive Approach    
     public static int fib(int n)
