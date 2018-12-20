@@ -45,7 +45,7 @@ public class MaximumJumInArray {
      */
     public static void main(String[] args) 
     {
-        int[] input = new int[]{11, 3, 1, 1, 2, 4, 2, 0, 1, 1};
+        int[] input = new int[]{2, 3, 1, 1, 2, 4, 2, 0, 1, 1};
         int res = maxjum(input);
         System.out.println(res);
     }
